@@ -3,11 +3,17 @@
   <img align="left" alt="Sergio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br>
+<br\>
 
-I like to develop solutions with software, data analysis and finance. I like fintech sector.
-In particular I have developed web projects like ecommerce, management systems and online education platforms. 
+I like to develop solutions with software, data analysis and finance. I like fintech sector. In particular I have developed web projects like ecommerce, management systems and online education platforms. 
 I’m honing my frontend and backed skills.
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <!--
 **sergio-gonzalez-sainz/sergio-gonzalez-sainz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
