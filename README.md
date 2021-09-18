@@ -5,9 +5,10 @@
 I like to develop solutions with software, data analysis and finance. I like fintech sector. In particular I have developed web projects like ecommerce, management systems and online education platforms. 
 I’m honing my frontend and backed skills.
 
+
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-gonzalez-sainz&layout=compact)  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -16,11 +17,8 @@ I’m honing my frontend and backed skills.
 
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-gonzalez-sainz&layout=compact)
   
 </div>
-
-
 
 <div align="left">
  <h4>Social networks:</h4>
@@ -28,3 +26,7 @@ I’m honing my frontend and backed skills.
   <img align="left" alt="Sergio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
 </div>
+
+
+
+
