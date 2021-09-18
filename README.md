@@ -2,7 +2,9 @@
 <a href="https://www.linkedin.com/in/sergio-abraham-gonz%C3%A1lez-sainz-43512815a/">
   <img align="left" alt="Sergio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br\>
+
+<br>
+
 I like to develop solutions with software, data analysis and finance. I like fintech sector.
 In particular I have developed web projects like ecommerce, management systems and online education platforms. 
 I’m honing my frontend and backed skills.
