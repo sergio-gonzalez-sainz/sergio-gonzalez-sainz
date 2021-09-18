@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I like to develop solutions with software, data analysis and finance. I like fintech sector.
+In particular I have developed web projects like ecommerce, management systems and online education platforms. 
+I’m honing my frontend and backed skills.
+
 <!--
 **sergio-gonzalez-sainz/sergio-gonzalez-sainz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
