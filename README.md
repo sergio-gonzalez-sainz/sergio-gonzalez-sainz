@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Welcome To My GitHub Profile!</h1>
+  <h1>Welcome To My GitHub Profile! 🙌🏼</h1>
 </div>
-<h3>I´m Sergio👋</h3>
+<h3>I´m Sergio  👦🏻👋🏼 </h3>
 I like to develop solutions with software, data analysis and finance. I like fintech sector. In particular I have developed web projects like ecommerce, management systems and online education platforms. 
 I’m honing my frontend and backed skills.
 
