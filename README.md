@@ -4,7 +4,7 @@
 <h3>I´m Sergio  👦🏻👋🏼 </h3>
 I like to develop solutions with software, data analysis and finance. I like fintech sector. In particular I have developed web projects like ecommerce, management systems and online education platforms. 
 I’m honing my frontend and backed skills.
-
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-gonzalez-sainz&layout=compact)  
 <h4>Languages and Tools:</h4>
