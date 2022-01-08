@@ -9,7 +9,7 @@ I’m honing my frontend and backed skills.
 <br>
 <div>
   <h3> Languages and Tools:</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-gonzalez-sainz&layout=compact" />
+<img height="155em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-gonzalez-sainz&layout=compact&langs_count=7&theme=prussian" />
   
 | Frond-End             | Back-End    | DBMS |
 |:---:|:---:|:---:|
