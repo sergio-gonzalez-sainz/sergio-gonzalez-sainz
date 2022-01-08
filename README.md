@@ -22,9 +22,9 @@ I’m honing my frontend and backed skills.
 
  ## Social networks:
 <a href="https://www.linkedin.com/in/sergio-abraham-gonz%C3%A1lez-sainz-43512815a/" target="_black">
-  <img src="https://img.shields.io/badge/-LinkedInñ-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
-<a href="https://www.linkedin.com/in/sergio-abraham-gonz%C3%A1lez-sainz-43512815a/" target="_black">
+<a href="https://github.com/sergio-gonzalez-sainz/sergio-gonzalez-sainz/blob/main/Curriculum-Sergio-Abraham-Gonza%CC%81lez-Sainz.pdf" target="_black">
   <img src="https://img.shields.io/badge/-Curriculum-%230077B5?style=for-the-badge&logoColor=blue" target="_blank">
 </a> 
 
