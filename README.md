@@ -21,10 +21,9 @@ I’m honing my frontend and backed skills.
 </div>
 
  ## Social networks:
-  <a href="https://www.linkedin.com/in/sergio-abraham-gonz%C3%A1lez-sainz-43512815a/">
-  <img align="left" alt="Sergio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
- </a>
-
+<a href="https://www.linkedin.com/in/sergio-abraham-gonz%C3%A1lez-sainz-43512815a/" target="_black">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
 
 
 
