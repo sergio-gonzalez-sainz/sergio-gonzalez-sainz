@@ -4,8 +4,7 @@
 
 ## I´m Sergio  👦🏻👋🏼 
 
-I like to develop solutions with software, data analysis and finance. I like fintech sector. In particular I have developed web projects like ecommerce, management systems and online education platforms. 
-I’m honing my frontend and backed skills.
+I enjoy developing solutions with software, data analysis, and finance. I'm interested in the fintech sector. In particular, I've developed web projects like e-commerce, management systems, and online education platforms. I’m currently honing my frontend and backend skills.
 <br>
 <div>
   <h3> Languages and Tools:</h3>
